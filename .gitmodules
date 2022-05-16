@@ -1,0 +1,3 @@
+[submodule "Sybrin.Android.SDK.Identity"]
+	path = Sybrin.Android.SDK.Identity
+	url = https://jnb-git.sybrin.co.za/INN/Sybrin.Android.SDK.Identity
